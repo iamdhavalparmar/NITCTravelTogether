@@ -1,4 +1,4 @@
-# NITCTravelTogether
+# NITC Travel Together
 ## This is Software Engineering Lab Project
 
 * NITC Travel Together is an android application developed using Android Studio, Java, XML, and Firebase. 
